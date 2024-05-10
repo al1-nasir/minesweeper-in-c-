@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1714088248 source:/home/al1_nasir/Freelaunce/april_26/CODES/minesweeper/main.cpp
+	<SFML/Graphics.hpp>
+	<string>
+	<vector>
+	"Tile.h"
+	"Controller.h"
+
+1714088228 /home/al1_nasir/Freelaunce/april_26/CODES/minesweeper/include/Tile.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1714101934 /home/al1_nasir/Freelaunce/april_26/CODES/minesweeper/include/Controller.h
+	"Tile.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<SFML/Graphics.hpp>
+	<algorithm>
+	<map>
+	<iostream>
+	<fstream>
+
